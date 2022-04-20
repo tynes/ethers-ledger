@@ -1,11 +1,11 @@
 {
-  "name": "@anders-t/ethers-ledger",
+  "name": "@tynes/ethers-ledger",
   "version": "1.0.4",
   "description": "Hardware Wallet support for ethers (NodeJS only).",
   "author": "Anders Torbjørnsen <anders.torbjornsen87@gmail.com>",
   "dependencies": {
-    "@ledgerhq/hw-app-eth": "^6.24.0",
-    "@ledgerhq/hw-transport-node-hid": "^6.20.0",
+    "@ledgerhq/hw-app-eth": "^6.27.1",
+    "@ledgerhq/hw-transport-node-hid": "^6.27.1",
     "ethers": "^5.5.4"
   },
   "keywords": [
