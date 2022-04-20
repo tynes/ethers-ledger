@@ -1,5 +1,5 @@
 {
-  "name": "@tynes/ethers-ledger",
+  "name": "ethers-ledger",
   "version": "1.0.4",
   "description": "Hardware Wallet support for ethers (NodeJS only).",
   "author": "Anders Torbjørnsen <anders.torbjornsen87@gmail.com>",
